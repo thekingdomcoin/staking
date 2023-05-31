@@ -46,7 +46,7 @@ let isMetamaskConnected;
 
 let selectedAccount;
 
-let web3Main = new Web3('https://rpc.ankr.com/bsc_testnet_chapel');
+let web3Main = new Web3('https://data-seed-prebsc-2-s1.binance.org:8545/');
 
 // Create an instance of Notyf
 var notyf = new Notyf({
